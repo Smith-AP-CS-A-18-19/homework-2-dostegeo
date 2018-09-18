@@ -1,3 +1,4 @@
+// dostegeo
 /*
  * George Doster
  */
@@ -25,6 +26,10 @@ public Homework2(String q11){
 	 * Hint: Search the String class for 'uppercase'
 	 */
 	 public String uppercase(){
+		 /* This should not create a new String,
+		  * but should rather call the toUpperCase
+		  * method on the String you have saved, q1
+		  */
 	 String q2 = "hello, world!";
 	 String q2uc = q2.toUpperCase();
 	 return q2uc;
