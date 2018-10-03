@@ -13,3 +13,8 @@ Make sure that you include your first and last name in the comment section at th
 Fail - 2
 9/10
 See my comments in the code. The only issue was that you created a new String instead of operating on the one tat you had saved as an instance variable
+
+## Feedback
+Fail - 2
+9/10
+See my notes in code.
