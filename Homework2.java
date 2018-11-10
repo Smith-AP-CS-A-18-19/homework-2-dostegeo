@@ -31,8 +31,8 @@ public Homework2(String q11){
 		  * but should rather call the toUpperCase
 		  * method on the String you have saved, q1
 		  */
-	 String q2 = "hello, world!";
-	 String q2uc = q2.toUpperCase();
+
+	 String q2uc = q1.toUpperCase();
 	 return q2uc;
 }
 
